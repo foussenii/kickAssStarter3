@@ -1,0 +1,40 @@
+/* mini frameworks */
+.kickass-flex{
+  display: flex;
+}
+
+
+/* ==================================== */
+
+.kickass-menu{
+  display: flex;
+  justify-content: space-between;
+  /*padding:30px 10px;*/
+  border-bottom:3px solid #39A6FF;
+}
+
+.kickass-menu div i{
+  font-size: 3rem;
+}
+
+.kickass-logo{
+  padding:20px 0;
+}
+
+.kickass-menu-btn{
+  padding:20px 0;
+}
+
+.kickass-sign{
+  background: #FFFFFF;
+  border:none;
+  padding:20px 5px;
+  color:#000000;
+}
+
+.kickass-login{
+  background: #39A6FF;
+  border:none;
+  padding:20px 5px;
+  color:#FFFFFF;
+}
