@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto:300,400,900');
 
+*, p{
+  font-family: 'Roboto', sans-serif;
+}
+
 .container-principal{
   width:100%;
 }

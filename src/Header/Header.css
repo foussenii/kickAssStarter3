@@ -12,17 +12,30 @@
   /*padding:30px 10px;*/
   border-bottom:3px solid #39A6FF;
 }
-
+/*
 .kickass-menu div i{
   font-size: 3rem;
-}
+}*/
 
 .kickass-logo{
   padding:20px 0;
 }
 
+.kickass-logo i{
+  font-size:3rem;
+}
+
 .kickass-menu-btn{
   padding:20px 0;
+}
+
+.kickass-menu-btn i{
+  font-size: 1.5rem;
+  padding:0 12px 0 4px;
+}
+
+.kickass-search i{
+  font-size:2rem;
 }
 
 .kickass-sign{

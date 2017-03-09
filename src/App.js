@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import './Reset.css';
 import './App.css';
 import Header from './Header/Header.js';
+import Bandeau from './Bandeau/Bandeau.js';
 
 class App extends Component {
   render() {
@@ -11,7 +12,8 @@ class App extends Component {
 
       <div className="container-principal">
         <Header></Header>
-    </div>
+        <Bandeau></Bandeau>
+      </div>
 
 
 

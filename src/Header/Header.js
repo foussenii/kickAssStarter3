@@ -14,9 +14,9 @@ class Header extends Component {
     <h1 className="kickass-h1">KickAssStarter</h1>
   </div>
   <div className="kickass-menu-btn">
-  <button className="kickass-btn" type="button" name="button">Créer un projet</button>
+    <button className="kickass-btn" type="button" name="button"><i className="fa fa-plus" aria-hidden="true"></i>Créer un projet</button>
   </div>
-  <div>
+  <div className="kickass-search">
     <i className="fa fa-search" aria-hidden="true"></i>
     <input type="text"></input>
   </div>
