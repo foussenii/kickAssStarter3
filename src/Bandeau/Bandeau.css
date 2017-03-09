@@ -1,0 +1,22 @@
+.bandeauImage {
+  background-image: url(imageBandeau.jpg);
+  background-position: center;
+  background-size: cover;
+  height:80vh;
+  width:100%;
+  display: flex;
+}
+
+.bandeauPresentation {
+  color: #FFFFFF;
+  height:20vh;
+  width:40%;
+  z-index: 1;
+  border: 0.3px solid black;
+  border-radius:10px;
+  margin-top: 55vh;
+  margin-left: 12vh;
+  text-align: left;
+  background-color: rgba(41,40,40,0.7);
+
+}
